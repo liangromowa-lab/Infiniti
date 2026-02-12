@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "openai.com",
+        "chatgpt.com",
+        "discord.com",
+        "discord.gg",
+        "discordapp.com"
+      ]
+    },
+    {
+      "domain": [
+        "cdn.openai.com",
+        "api.openai.com"
+      ]
+    }
+  ]
+}
